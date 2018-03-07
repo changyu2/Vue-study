@@ -86,6 +86,10 @@ h1 {
   cursor: pointer;
 }
 
+.restart:focus {
+  outline: none;
+}
+
 .scoreBoard {
   display: flex;
   flex-direction: row;
